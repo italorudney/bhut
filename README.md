@@ -7,10 +7,10 @@ Using SOLID principles, write a program that prints all the numbers from 1 to 10
 * You can't use `else`, `else if` or ternary
 * Unit tests
 * You can write the challenge in any language you want. Here we are big fans of PHP
-* <h1>Instalação</h1>
-* <hr>
-* <ul>
-* <li>Clone o projeto</li>
-* <li>Rode o "composer install"</li>
-* <li>Rode o projeto</li>
-* </ul>
+ <h1>Instalação</h1>
+<hr>
+<ul>
+<li>Clone o projeto</li>
+<li>Rode o "composer install"</li>
+<li>Rode o projeto</li>
+</ul>
